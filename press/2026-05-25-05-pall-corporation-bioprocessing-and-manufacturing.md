@@ -1,7 +1,9 @@
 ---
 title: Pall Corporation - Bioprocessing and Manufacturing ...
 url: https://www.pharmaceutical-technology.com/contractors/contract-manufacturers/pall-corporation/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pall" press release artificial intelligence'
 position: 5
 source: serpapi-google

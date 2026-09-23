@@ -1,7 +1,9 @@
 ---
 title: Singapore Grand Opening
 url: https://www.pall.com/en/about-pall/press-release/singapore-grand-opening.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pall" press release artificial intelligence'
 position: 1
 source: serpapi-google

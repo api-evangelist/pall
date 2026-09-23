@@ -1,7 +1,9 @@
 ---
 title: US Fumbles AI Messaging Amid Global Competition
 url: https://www.linkedin.com/posts/alex-pall-9921b7244_ai-is-less-popular-than-ice-right-now-based-activity-7455633014446944256-VLe0
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pall" press release artificial intelligence'
 position: 3
 source: serpapi-google

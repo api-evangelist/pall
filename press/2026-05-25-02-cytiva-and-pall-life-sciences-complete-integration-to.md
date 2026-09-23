@@ -1,7 +1,9 @@
 ---
 title: Cytiva and Pall Life Sciences complete integration to ...
 url: https://www.prnewswire.com/news-releases/cytiva-and-pall-life-sciences-complete-integration-to-create-a-global-innovation-and-solutions-leader-in-biotechnology-301812144.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Pall" press release artificial intelligence'
 position: 2
 source: serpapi-google
