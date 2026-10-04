@@ -1,5 +1,5 @@
 aid: pall
-name: Pall Corporation
+name: Pall
 description: >-
   Pall Corporation is a filtration, separation, and purification solutions
   provider serving aerospace and defense, food and beverage, semiconductors,
@@ -54,3 +54,4 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: Pall Corporation
